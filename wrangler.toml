@@ -1,0 +1,7 @@
+name = "eclipse-music-addon"
+main = "index.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+MUSICAPI_BASE = "https://musicapi.onrender.com"
+# Replace with your self-hosted MusicAPI instance URL if needed

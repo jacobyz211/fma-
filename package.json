@@ -1,0 +1,13 @@
+{
+  "name": "eclipse-music-addon",
+  "version": "1.0.0",
+  "description": "FMA (primary) + MusicAPI fallback — Eclipse Addon for Cloudflare Workers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.60.0"
+  }
+}
